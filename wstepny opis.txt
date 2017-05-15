@@ -1,0 +1,14 @@
+GRA SNAKE
+
+Projekt na Akademiê C#
+
+Opis:
+Gra Snake utworzona w konsoli (w przysz³oœci mo¿e 2D/3D)
+
+Cechy:
+-silnik gry
+-ranking/punktacja graczy
+-ustawienia (kolor wê¿a, rozmiar planszy, poziom trudnoœci)
+
+Projekt tworzony przez:
+Bartosz Banach (banach.bartosz1@gmail.com)
